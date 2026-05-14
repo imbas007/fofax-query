@@ -2,22 +2,22 @@
 
 ## API key configuration
 
-export foofa api key
+export fofa api key
 ```
-export FOFOAPI_KEY='fofa api key'
+export FOFaAPI_KEY='fofa api key'
 ```
 
 ## Command line
 
 ```text
-python3 fofo-query.py '<FOFA query>' [size]
+python3 fofa-query.py '<FOFA query>' [size]
 ```
 
 ### Examples
 
 ```bash
 
-python3 fofo-query.py 'app="Grafana" && country="CN"' 20
+python3 fofa-query.py 'app="Grafana" && country="CN"' 20
 
-python3 fofo-query.py 'body="api.telegram.org"' 20
+python3 fofa-query.py 'body="api.telegram.org"' 20
 ```
