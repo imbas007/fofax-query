@@ -4,7 +4,7 @@
 
 export fofa api key
 ```
-export FOFaAPI_KEY='fofa api key'
+export FOFAAPI_KEY='fofa api key'
 ```
 
 ## Command line
